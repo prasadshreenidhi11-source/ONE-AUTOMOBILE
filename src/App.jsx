@@ -10,7 +10,7 @@ const NAV_LINKS = [
 
 const SERVICES = [
   {
-    title: "Curated Inventory",
+    title: "Curated Inventorys",
     copy: "Every car and bike is hand-selected and inspected before it earns a place in our collection.",
   },
   {
